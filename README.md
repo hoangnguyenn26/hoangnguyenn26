@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Hoang Nguyen 👋</h1>
+<h3 align="center">A Passionate Full-Stack .NET Developer</h3>
 
-<!--
-**hoangnguyenn26/hoangnguyenn26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/hoangnguyenn26">
+    <img src="https://komarev.com/ghpvc/?username=hoangnguyenn26&label=Profile%20Views&color=0e75b6&style=flat-square" alt="hoangnguyenn26" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I'm a final-year Information Technology student specializing in the .NET ecosystem. I am passionate about building robust, scalable backend services with ASP.NET Core and crafting intuitive, cross-platform mobile experiences with .NET MAUI. My focus is on applying Clean Architecture and modern design patterns to create maintainable and high-quality software.
+</p>
+
+---
+
+- 👨‍💻 **My Portfolio:** [hoangnguyenn.netlify.app](https://hoangnguyenn.netlify.app)
+- 🌱 **I’m currently deepening my skills in:** Real-time applications with SignalR and exploring advanced frontend frameworks like Angular.
+- 📫 **How to reach me:** [hoangnguyenn268@gmail.com](mailto:hoangnguyenn268@gmail.com)
+- 📄 **Know about my experiences:** [My Resume](https://shorturl.at/4IFZh)
+
+---
+
+### 🛠️ **Languages and Tools:**
+
+<p align="center">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="45" height="45"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+### 📊 **My GitHub Stats:**
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangnguyenn26&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hoangnguyenn26" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangnguyenn26&show_icons=true&locale=en&theme=vision-friendly-dark" alt="hoangnguyenn26" />
+  &nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangnguyenn26&theme=vision-friendly-dark" alt="hoangnguyenn26" />
+</p>
+
+---
+
+### 🔗 **Connect with me:**
+
+<p align="center">
+  <a href="https://linkedin.com/in/hoang-nguyenn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang-nguyenn" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/hoangnguyenn26" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hoangnguyenn26" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/hgnguyen.26" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hgnguyen.26" height="30" width="40" />
+  </a>
+</p>
