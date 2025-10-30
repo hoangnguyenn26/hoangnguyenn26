@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hoang Nguyen 👋</h1>
-<h3 align="center">A Passionate Full-Stack .NET Developer</h3>
+<h3 align="center">.NET Junior Back End Developer</h3>
 
 <p align="center">
   <a href="https://github.com/hoangnguyenn26">
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  I'm a final-year Information Technology student specializing in the .NET ecosystem. I am passionate about building robust, scalable backend services with ASP.NET Core and crafting intuitive, cross-platform mobile experiences with .NET MAUI. My focus is on applying Clean Architecture and modern design patterns to create maintainable and high-quality software.
+  Junior .NET Developer specializing in ASP.NET Core backend development. I focus on applying Clean Architecture and modern design patterns to create maintainable, high-quality software solutions.
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 👨‍💻 **My Portfolio:** [hoangnguyenn.netlify.app](https://hoangnguyenn.netlify.app)
 - 🌱 **I’m currently deepening my skills in:** Real-time applications with SignalR and exploring advanced frontend frameworks like Angular.
 - 📫 **How to reach me:** [hoangnguyenn268@gmail.com](mailto:hoangnguyenn268@gmail.com)
-- 📄 **Know about my experiences:** [My Resume](https://shorturl.at/4IFZh)
+- 📄 **Know about my experiences:** [My Resume](https://hoangnguyenn.netlify.app/resume.pdf)
 
 ---
 
@@ -76,7 +76,7 @@
   <a href="https://dev.to/hoangnguyenn26" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hoangnguyenn26" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/hgnguyen.26" target="blank">
+  <a href="https://instagram.com/hgnguyenn.26" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hgnguyen.26" height="30" width="40" />
   </a>
 </p>
