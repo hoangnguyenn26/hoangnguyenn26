@@ -10,13 +10,12 @@
 ---
 
 <p align="center">
-  Junior .NET Developer specializing in ASP.NET Core backend development. I focus on applying Clean Architecture and modern design patterns to create maintainable, high-quality software solutions.
+  Junior .NET Developer specializing in ASP.NET Core backend development.
 </p>
 
 ---
 
 - 👨‍💻 **My Portfolio:** [hoangnguyenn.netlify.app](https://hoangnguyenn.netlify.app)
-- 🌱 **I’m currently deepening my skills in:** Real-time applications with SignalR and exploring advanced frontend frameworks like Angular.
 - 📫 **How to reach me:** [hoangnguyenn268@gmail.com](mailto:hoangnguyenn268@gmail.com)
 - 📄 **Know about my experiences:** [My Resume](https://hoangnguyenn.netlify.app/resume.pdf)
 
