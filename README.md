@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hoang Nguyen 👋</h1>
-<h3 align="center">.NET Junior Back End Developer</h3>
+<h3 align="center">.NET Backend Developer | ASP.NET Core | Clean Architecture</h3>
 
 <p align="center">
   <a href="https://github.com/hoangnguyenn26">
@@ -10,72 +10,61 @@
 ---
 
 <p align="center">
-  Junior .NET Developer specializing in ASP.NET Core backend development.
+Backend Developer specializing in building scalable APIs with <b>ASP.NET Core</b>, focusing on <b>clean architecture, maintainability, and performance</b>.
 </p>
 
 ---
 
-- 👨‍💻 **My Portfolio:** [hoangnguyenn.netlify.app](https://hoangnguyenn.netlify.app)
-- 📫 **How to reach me:** [hoangnguyenn268@gmail.com](mailto:hoangnguyenn268@gmail.com)
-- 📄 **Know about my experiences:** [My Resume](https://hoangnguyenn.netlify.app/resume.pdf)
+### 🚀 About Me
+
+- 🔧 Backend developer focused on **ASP.NET Core Web API**
+- 🧠 Interested in **System Design, Clean Architecture, and scalable backend systems**
+- 🗄️ Experienced with **SQL Server, PostgreSQL, and Entity Framework Core**
+- 🐳 Working with **Docker and modern backend development practices**
+- 📚 Continuously learning **distributed systems and advanced backend patterns**
 
 ---
 
-### 🛠️ **Languages and Tools:**
+### 🌐 Portfolio & Contact
+
+- 👨‍💻 **Portfolio:** https://hoangnguyenn.netlify.app  
+- 📄 **Resume:** https://hoangnguyenn.netlify.app/resume.pdf  
+- 📫 **Email:** hoangnguyenn268@gmail.com  
+
+### 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="45" height="45"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
 </p>
 
----
-
-### 📊 **My GitHub Stats:**
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangnguyenn26&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hoangnguyenn26" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangnguyenn26&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangnguyenn26&show_icons=true&locale=en&theme=vision-friendly-dark" alt="hoangnguyenn26" />
-  &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangnguyenn26&theme=vision-friendly-dark" alt="hoangnguyenn26" />
-</p>
 
----
-
-### 🔗 **Connect with me:**
+### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hoang-nguyenn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang-nguyenn" height="30" width="40" />
+  <a href="https://linkedin.com/in/hoang-nguyenn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
-  <a href="https://dev.to/hoangnguyenn26" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hoangnguyenn26" height="30" width="40" />
+  <a href="https://dev.to/hoangnguyenn26">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
   </a>
-  <a href="https://instagram.com/hgnguyenn.26" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hgnguyen.26" height="30" width="40" />
+  <a href="https://instagram.com/hgnguyenn.26">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
 </p>
