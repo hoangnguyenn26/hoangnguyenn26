@@ -1,11 +1,6 @@
-<h1 align="center">Hi there, I'm Hoang Nguyen 👋</h1>
+<h1 align="center">Hi, I'm Hoang Nguyen 👋</h1>
 <h3 align="center">.NET Backend Developer | ASP.NET Core | Clean Architecture</h3>
 
-<p align="center">
-  <a href="https://github.com/hoangnguyenn26">
-    <img src="https://komarev.com/ghpvc/?username=hoangnguyenn26&label=Profile%20Views&color=0e75b6&style=flat-square" alt="hoangnguyenn26" />
-  </a>
-</p>
 
 ---
 
@@ -48,23 +43,3 @@ Backend Developer specializing in building scalable APIs with <b>ASP.NET Core</b
 
 </p>
 
-### 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangnguyenn26&theme=tokyo-night&hide_border=true"/>
-</p>
-
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/hoang-nguyenn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-  <a href="https://dev.to/hoangnguyenn26">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
-  </a>
-  <a href="https://instagram.com/hgnguyenn.26">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
-</p>
